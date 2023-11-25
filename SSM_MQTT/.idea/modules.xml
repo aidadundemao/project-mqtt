@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IOT_parent/IOT_backend/IOT_backend.iml" filepath="$PROJECT_DIR$/IOT_parent/IOT_backend/IOT_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOT_parent/IOT_common/IOT_common.iml" filepath="$PROJECT_DIR$/IOT_parent/IOT_common/IOT_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOT_parent/IOT_interface/IOT_interface.iml" filepath="$PROJECT_DIR$/IOT_parent/IOT_interface/IOT_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOT_parent/IOT_parent.iml" filepath="$PROJECT_DIR$/IOT_parent/IOT_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOT_parent/IOT_service_provider/IOT_service_provider.iml" filepath="$PROJECT_DIR$/IOT_parent/IOT_service_provider/IOT_service_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartzdemo/quartzdemo.iml" filepath="$PROJECT_DIR$/quartzdemo/quartzdemo.iml" />
+    </modules>
+  </component>
+</project>

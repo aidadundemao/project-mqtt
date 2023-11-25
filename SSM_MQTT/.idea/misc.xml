@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/health_parent/health_jobs" />
+    <file type="web" url="file://$PROJECT_DIR$/health_parent/health_mobile" />
+    <file type="web" url="file://$PROJECT_DIR$/IOT_parent/IOT_backend" />
+    <file type="web" url="file://$PROJECT_DIR$/IOT_parent/IOT_service_provider" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/health_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/quartzdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/IOT_parent/IOT_backend/pom.xml" />
+        <option value="$PROJECT_DIR$/IOT_parent/IOT_common/pom.xml" />
+        <option value="$PROJECT_DIR$/IOT_parent/IOT_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/IOT_parent/IOT_service_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/IOT_parent/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/IOT_parent/IOT_service_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/health_parent/health_jobs/pom.xml" />
+        <option value="$PROJECT_DIR$/health_parent/health_mobile/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8.0_101" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
